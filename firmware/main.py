@@ -1,4 +1,3 @@
-FUNCIONA CON DISPLAY Y BUZZER:
 import dht
 import machine
 import time
